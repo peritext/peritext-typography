@@ -4,7 +4,6 @@ import quotes from 'typographic-quotes';
 import apostrophesForPlurals from 'typographic-apostrophes-for-possessive-plurals';
 import arrows from 'typographic-arrows';
 import copyright from 'typographic-copyright';
-import currency from 'typographic-currency';
 import ellipses from 'typographic-ellipses';
 import emDashes from 'typographic-em-dashes';
 import enDashes from 'typographic-en-dashes';
@@ -20,7 +19,6 @@ const base = textr()
     apostrophesForPlurals,
     arrows,
     copyright,
-    currency,
     ellipses,
     emDashes,
     enDashes,
