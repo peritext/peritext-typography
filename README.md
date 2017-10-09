@@ -1,3 +1,7 @@
+# peritext-typography
+
+Typography fixes set for the peritext ecosystem - forked from the repo `typographic-base` written by Vladimir Starkov.
+
 # typographic-base
 
 [![NPM version][npm-image]][npm-url]
