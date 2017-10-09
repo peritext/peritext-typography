@@ -9,7 +9,7 @@ import emDashes from 'typographic-em-dashes';
 import enDashes from 'typographic-en-dashes';
 import mathSymbols from 'typographic-math-symbols';
 import registeredTrademark from 'typographic-registered-trademark';
-import singleSpaces from 'typographic-single-spaces';
+// import singleSpaces from 'typographic-single-spaces';
 import trademark from 'typographic-trademark';
 
 const base = textr()
@@ -24,7 +24,7 @@ const base = textr()
     enDashes,
     mathSymbols,
     registeredTrademark,
-    singleSpaces,
+    // singleSpaces,
     trademark
   );
 
