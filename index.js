@@ -17,15 +17,15 @@ const base = textr()
     apostrophes,
     quotes,
     apostrophesForPlurals,
-    arrows,
-    copyright,
+    // arrows,
+    // copyright,
     ellipses,
     emDashes,
     enDashes,
-    mathSymbols,
-    registeredTrademark,
+    // mathSymbols,
+    // registeredTrademark,
     // singleSpaces,
-    trademark
+    // trademark
   );
 
 export default base;
