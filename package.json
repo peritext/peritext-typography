@@ -14,7 +14,8 @@
     "prepublish": "npm run transpile",
     "clean": "rimraf index.es5.js",
     "push": "git push --follow-tags",
-    "postpublish": "npm-run-all clean push"
+    "postpublish": "npm-run-all clean push",
+    "postinstall": "npm run transpile"
   },
   "repository": {
     "type": "git",
